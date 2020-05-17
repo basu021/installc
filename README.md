@@ -15,13 +15,15 @@
 - After installing you can check YouTube(hax4us pro)
    <a href="https://www.youtube.com/playlist?list=PLZlwiztIOucUED9JmGqkasy5kN2Iru6Ui">
          
-         <img src="http://pngimg.com/uploads/youtube/youtube_PNG12.png" alt="Click here"> 
+         <img src="http://pngimg.com/uploads/youtube/youtube_PNG12.png" alt="Click here"></a>
 
 
 
          
-</a>                      
-## Creating a c file
+
+
+
+## Creating a file
 
 - Nano is a simple, modeless, WYSIWYG command-line text editor included in most Linux installations. With a simple easy to use interface, it is a great choice for Linux beginners.
 - Write program by `$ nano myfile.c` 
