@@ -20,7 +20,7 @@
 ## Control Characters and Keys
 - There are keyboard combinations for each function in Nano. Control shortcuts (used with the Ctrl button) are represented by a carat (^) followed by a symbol.
 <pre><code data-wg-notranslate="manual">^x exit          ^Y First Line       ^T Go To Line       ^W Beg of Par       M-J FullJstify      M-B Backwards
-^C Cancel           ^V Last Line        ^R Replace          ^O End of Par       M-C Case Sens       M-R Regexp
+^C Cancel        ^V Last Line        ^R Replace          ^O End of Par       M-C Case Sens       M-R Regexp
 </code></pre>
 
 ## Saving a file
