@@ -20,7 +20,7 @@
 
 
          
-</a>                            
+</a>                      
 ## Creating a c file
 
 - Nano is a simple, modeless, WYSIWYG command-line text editor included in most Linux installations. With a simple easy to use interface, it is a great choice for Linux beginners.
