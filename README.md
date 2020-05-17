@@ -15,12 +15,12 @@
 - After installing you can check YouTube(hax4us pro)
    <a href="https://www.youtube.com/playlist?list=PLZlwiztIOucUED9JmGqkasy5kN2Iru6Ui">
          
-         <img src= 
+         <img src="http://pngimg.com/uploads/youtube/youtube_PNG12.png" alt="Click here"> 
 
-"http://pngimg.com/uploads/youtube/youtube_PNG12.png" 
 
-         alt="Click here"> 
-   </a>                            
+
+         
+</a>                            
 ## Creating a c file
 
 - Nano is a simple, modeless, WYSIWYG command-line text editor included in most Linux installations. With a simple easy to use interface, it is a great choice for Linux beginners.
@@ -33,7 +33,7 @@
 
 ## Saving a file
 
-<p> To save file, type <kbd style="color: black; font-size: small; border: 0.2em solid; border-color: #DDD #BBB #BBB #DDD; padding: 0 0.4em; background: #EEE; white-space: nowrap;">Ctrl</kbd> + <kbd style="color: black; font-size: small; border: 0.2em solid; border-color: #DDD #BBB #BBB #DDD; padding: 0 0.4em; background: #EEE; white-space: nowrap;">X</kbd>. If you ask nano to exit from a modified file, it will ask you if you want to save it. Just press <kbd style="color: black; font-size: small; border: 0.2em solid; border-color: #DDD #BBB #BBB #DDD; padding: 0 0.4em; background: #EEE; white-space: nowrap;">N</kbd> in case you don't, or <kbd style="color: black; font-size: small; border: 0.2em solid; border-color: #DDD #BBB #BBB #DDD; padding: 0 0.4em; background: #EEE; white-space: nowrap;">Y</kbd> in case you do. It will then ask you for a filename. Just type it in and press <kbd style="color: black; font-size: small; border: 0.2em solid; border-color: #DDD #BBB #BBB #DDD; padding: 0 0.4em; background: #EEE; white-space: nowrap;">Enter</kbd>. 
+<p> To save file, type <kbd style="color: black; font-size: small; border: 0.2em solid; border-color: #DDD #BBB #BBB #DDD; padding: 0 0.4em; background: #EEE; white-space: nowrap;">Ctrl</kbd> + <kbd style="color: black; font-size: small; border: 0.2em solid; border-color: #DDD #BBB #BBB #DDD; padding: 0 0.4em; background: #EEE; white-space: nowrap;">X</kbd>. If you ask nano to exit from a modified file, it will ask you if you want to save it. Just press <kbd style="color: black; font-size: small; border: 0.2em solid; border-color: #DDD tu#BBB #BBB #DDD; padding: 0 0.4em; background: #EEE; white-space: nowrap;">N</kbd> in case you don't, or <kbd style="color: black; font-size: small; border: 0.2em solid; border-color: #DDD #BBB #BBB #DDD; padding: 0 0.4em; background: #EEE; white-space: nowrap;">Y</kbd> in case you do. It will then ask you for a filename. Just type it in and press <kbd style="color: black; font-size: small; border: 0.2em solid; border-color: #DDD #BBB #BBB #DDD; padding: 0 0.4em; background: #EEE; white-space: nowrap;">Enter</kbd>. 
 </p>
 
 ## If you accidentally confirmed that you want to save the file but you actually don't
