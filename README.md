@@ -15,7 +15,8 @@
 - After installing you can check YouTube(hax4us pro)
   <p> 
          
-         <img src="https://github.com/basu021/logo/blob/master/yt.png" alt="Click here"></p>
+         <img src="https://github.com/basu021/logo/blob/master/yt.png">
+         </p>
 
 
 
