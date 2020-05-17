@@ -13,9 +13,9 @@
 - `$ bash install.sh`
 # Uses
 - After installing you can check YouTube(hax4us pro)
-  <p> <a href="https://www.youtube.com/playlist?list=PLZlwiztIOucUED9JmGqkasy5kN2Iru6Ui">
+  <p> 
          
-         <img src="https://github.com/basu021/logo/blob/master/yt.png" alt="Click here"></a></p>
+         <img src="https://github.com/basu021/logo/blob/master/yt.png" alt="Click here"></p>
 
 
 
