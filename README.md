@@ -14,7 +14,7 @@
 # Uses
 - After installing you can check YouTube(hax4us pro)
    <a href="https://www.youtube.com/playlist?list=PLZlwiztIOucUED9JmGqkasy5kN2Iru6Ui">
-         <img alt="Qries" src="https://images.app.goo.gl/8nxDumzQCjnGpg2WA"
+         <img src="https://images.app.goo.gl/8nxDumzQCjnGpg2WA"
          width=150" height="70">
    </a>                            
 ## Creating a c file
