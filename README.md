@@ -14,6 +14,6 @@
 # Uses
 - After installing you can check YouTube(hax4us pro)
 - Write program by `$ nano myfile.c` 
-<pre><code data-wg-notranslate="manual">^G Get Help         ^Y First Line       ^T Go To Line       ^W Beg of Par       M-J FullJstify      M-B Backwards
+<pre><code data-wg-notranslate="manual">^x save & exit         ^Y First Line       ^T Go To Line       ^W Beg of Par       M-J FullJstify      M-B Backwards
 ^C Cancel           ^V Last Line        ^R Replace          ^O End of Par       M-C Case Sens       M-R Regexp
 </code></pre>
