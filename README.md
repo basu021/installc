@@ -13,6 +13,10 @@
 - `$ bash install.sh`
 # Uses
 - After installing you can check YouTube(hax4us pro)
+   <a href="https://www.youtube.com/playlist?list=PLZlwiztIOucUED9JmGqkasy5kN2Iru6Ui">
+         <img alt="Qries" src="https://images.app.goo.gl/8nxDumzQCjnGpg2WA"
+         width=150" height="70">
+   </a>                            
 ## Creating a c file
 
 - Nano is a simple, modeless, WYSIWYG command-line text editor included in most Linux installations. With a simple easy to use interface, it is a great choice for Linux beginners.
