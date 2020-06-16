@@ -12,13 +12,9 @@
 - `$ cd installc`
 - `$ bash install.sh`
 # Uses
-- After installing you can check YouTube(hax4us pro)
-  <p> 
-         
-         <img src="https://github.com/basu021/logo/blob/master/yt.png">
-         </p>
 
-
+- check instagram for more information
+- 
 
          
 
